@@ -1,2 +1,2 @@
-# Event-Management-App-
+# Event-Management-App
 Build with java 
